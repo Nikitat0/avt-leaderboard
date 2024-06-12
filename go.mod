@@ -1,3 +1,3 @@
-module "github.com/Nikitat0/avt-leaderboard"
+module github.com/Nikitat0/avt-leaderboard
 
 go 1.21
